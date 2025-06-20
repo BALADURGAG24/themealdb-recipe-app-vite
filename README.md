@@ -121,15 +121,7 @@ All data is fetched from **TheMealDB**:
 
 ---
 
-## 🖼️ UI Previews
 
-| Home Page                            | Favorites Page                       | Dark Mode                          |
-|-------------------------------------|--------------------------------------|------------------------------------|
-| ![Home Screenshot](screenshots/home.png) | ![Favorites Screenshot](screenshots/favorites.png) | ![Dark Screenshot](screenshots/dark.png) |
-
-> _Ensure `screenshots/` folder exists in the root for images to render._
-
----
 
 ## 🧠 LocalStorage Usage
 
