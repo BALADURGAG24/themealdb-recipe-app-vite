@@ -7,7 +7,7 @@ The **Recipe Finder App** is a feature-rich, responsive, and stylish web applica
 ## 🌟 Features
 
 ### 🔍 Smart Search
-- Autocomplete suggestions as you type.
+- Autocomplete suggestions as you type. 
 - Powered by lodash.debounce for smooth performance.
 
 ### 📂 Meal Type Filters
