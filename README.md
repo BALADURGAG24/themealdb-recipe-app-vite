@@ -19,7 +19,7 @@ The **Recipe Finder App** is a feature-rich, responsive, and stylish web applica
 ### ❤️ Favorites
 - Toggle favorite meals using heart emojis (❤️ / 🤍).
 - Persist favorites using localStorage.
-- View your favorites on a dedicated `/favorites` page.
+- View your favorites on a dedicated `/favorites` page. 
 
 ### 🌘 Dark Mode Support
 - Toggle dark/light theme using a moon/sun icon.
