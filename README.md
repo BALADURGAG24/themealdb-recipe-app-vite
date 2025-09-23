@@ -13,7 +13,7 @@ The **Recipe Finder App** is a feature-rich, responsive, and stylish web applica
 ### 📂 Meal Type Filters   
 - Filter recipes by categories like Beef, Chicken, Vegan, etc. 
  
-### 🧮 Sorting 
+### 🧮 Sorting  
 - Sort recipes based on the number of ingredients (ascending/descending).
 
 ### ❤️ Favorites
