@@ -4,7 +4,7 @@ The **Recipe Finder App** is a feature-rich, responsive, and stylish web applica
 
 --- 
    
-## 🌟 Features     
+## 🌟 Features      
            
 ### 🔍 Smart Search              
 - Autocomplete suggestions as you type. 
