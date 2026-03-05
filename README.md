@@ -86,22 +86,34 @@ Visit `http://localhost:5173` to open the app.
 ## 📁 File Structure
 
 ```
-src/
-├── components/
-│   ├── Header.jsx
-│   ├── Filters.jsx
-│   ├── SearchBar.jsx
-│   ├── RecipeCard.jsx
-│   ├── RecipeDetailModal.jsx
-│   ├── RecentlyViewed.jsx
-│   └── Spinner.jsx
-├── hooks/
-│   └── useDarkMode.js
-├── pages/
-│   ├── HomePage.jsx
-│   └── FavoritesPage.jsx
-├── App.jsx
-└── main.jsx
+Directory structure:
+└── baladurgag24-themealdb-recipe-app-vite/
+    ├── README.md
+    ├── eslint.config.js
+    ├── index.html
+    ├── LICENSE
+    ├── package.json
+    ├── tailwind.config.js
+    ├── vite.config.js
+    ├── public/
+    └── src/
+        ├── App.css
+        ├── App.jsx
+        ├── index.css
+        ├── main.jsx
+        ├── assets/
+        ├── components/
+        │   ├── Filters.jsx
+        │   ├── Header.jsx
+        │   ├── RecipeCard.jsx
+        │   ├── RecipeDetailModal.jsx
+        │   ├── SearchBar.jsx
+        │   └── Spinner.jsx
+        ├── hooks/
+        │   └── useDarkMode.js
+        └── pages/
+            ├── FavoritesPage.jsx
+            └── Home.jsx
 ```
 
 ---
